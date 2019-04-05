@@ -19,7 +19,7 @@ Command to connect to localhost --> **mongo --host localhost:27017**
 
 To check if you are connected or not, run **"show dbs"** command to see all the databases
 
-### Connecting to DB Compass via Compass
+### Connecting to DB via Compass
 
 Once you open Compass, by default it will show to connect to localhost. So just click on the connect button and you should be connected to all the local databases, which can be seen on the left hand side panel.
 You should be able to see the below databases
@@ -31,3 +31,6 @@ You should be able to see the below databases
 * config
 * local
 
+### Writing basic queries
+
+Geospatial queries
