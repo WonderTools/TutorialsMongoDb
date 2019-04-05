@@ -1,6 +1,6 @@
-# MongoDb- Advantages, Installation & Basics of MongoBD 
+# MongoDb- Advantages, Installation & Basics of MongoDB
 
-### What is Mongo DB?
+### What is MongoDB?
 
 * Scalable High performance open-source, document orientated database.
 * Build for speed.
@@ -32,7 +32,7 @@ Joins | Embedding,Linking
 
 ### Installation(*)
 
-Installing Mongo DB Enterprise Server from the [here](https://www.mongodb.com/download-center/enterprise)
+Installing MongoDB Enterprise Server from the [here](https://www.mongodb.com/download-center/enterprise)
 
 After installing the server, Install the Compass tool from [here](https://www.mongodb.com/download-center/compass)
 
@@ -44,14 +44,16 @@ For the mongo DB shell to work, please add **“C:\Program Files\MongoDB\Server\
 
 ### MongoDB hands-on!
 
-Importing Databases
+#### [Day 1](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day1.md#day1)
 
-Connecting to DB via shell
+[Importing Databases](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day1.md#importing-databases)
 
-Connecting to DB via Compass
+[Connecting to DB via shell](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day1.md#connecting-to-db-via-shell)
 
-Writing basic queries
+[Connecting to DB via Compass](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day1.md#connecting-to-db-compass-via-compass)
 
-Geospatial queries
+[Writing basic queries](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day1.md#writing-basic-queries)
+
+#### [Day 2]
 
 MongoDB has great documentation and the same can be seen [here](https://docs.mongodb.com/manual/introduction/)
