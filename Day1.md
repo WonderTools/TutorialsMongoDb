@@ -31,7 +31,7 @@ You should be able to see the below databases
 * config
 * local
 
-### Writing basic queries
+### Writing basic queries( using shell & compass)
 
 1. Determine the value type of elevation field for documents in the 100YWeatherSmall.datacollection?
 
@@ -44,4 +44,4 @@ You should be able to see the below databases
 
 #### Geospatial queries
 
-This we will see in a connected DB since Third party mapping services such as Mapbox are not available in Compass Isolated Edition.
+This we will see in a connected DB since third party mapping services such as Mapbox are not available in Compass Isolated Edition.
