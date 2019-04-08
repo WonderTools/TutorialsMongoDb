@@ -33,4 +33,15 @@ You should be able to see the below databases
 
 ### Writing basic queries
 
-Geospatial queries
+1. Determine the value type of elevation field for documents in the 100YWeatherSmall.datacollection?
+
+2. What is the value type of the airTemperature field for documents in the 100YWeatherSmall.data collection?
+
+3. How many movies in the video collection are directed by "èmile Reynaud"?
+
+4. Write a query to get the number of movies in the video collection whose viewer rating is greater than 8?
+
+
+#### Geospatial queries
+
+This we will see in a connected DB since Third party mapping services such as Mapbox are not available in Compass Isolated Edition.
