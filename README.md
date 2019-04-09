@@ -54,6 +54,14 @@ For the mongo DB shell to work, please add **“C:\Program Files\MongoDB\Server\
 
 [Writing basic queries](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day1.md#writing-basic-queries)
 
-#### [Day 2]
+#### [Day 2](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day2.md#day-2)
+
+[CRUD operation](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day2.md#crud-operations)
+
+[Understanding Projection,Embedded Document & Arrays](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day2.md#understanding-projection-embedded-document--arrays)
+
+[Task](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day2.md#task)
+
+#### Day 3
 
 MongoDB has great documentation and the same can be seen [here](https://docs.mongodb.com/manual/introduction/)
