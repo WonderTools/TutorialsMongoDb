@@ -9,6 +9,7 @@ During this session we will mainly focus on the CRUD operation in MongoDB.
 * Update --> updateOne(filter, data, options); updateMany(filter, data, options); replaceOne(filter, data, options)
 * Delete --> deleteOne((filter, options); deleteMany(filter, options)
 
+### Understanding Projection, Embedded Document & Arrays
 
 ### Task
 
