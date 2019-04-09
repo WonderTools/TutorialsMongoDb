@@ -1,6 +1,6 @@
 ## Day 2
 
-During this session we will mainly focus on the CRUD operation within MongoDB.
+During this session we will mainly focus on the CRUD operation in MongoDB.
 
 ### CRUD operations
 
