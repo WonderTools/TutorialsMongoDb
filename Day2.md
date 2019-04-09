@@ -1,4 +1,8 @@
-CRUD operations
+## Day 2
+
+During this session we will mainly focus on the CRUD operation within MongoDB.
+
+### CRUD operations
 
 * Create --> insertOne(data, options); insertMany(data, options)
 * Read --> find(filter, options); findOne(filter, options)
@@ -6,7 +10,7 @@ CRUD operations
 * Delete --> deleteOne((filter, options); deleteMany(filter, options)
 
 
-Task
+### Task
 
 1. Insert 3 passenger records with one past air travel history
 2. Update 1 passenger record with new age, new surname & history entry.
