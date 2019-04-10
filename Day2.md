@@ -10,7 +10,54 @@ During this session we will mainly focus on the CRUD operation in MongoDB.
 * Delete --> deleteOne((filter, options); deleteMany(filter, options)
 
 ### Understanding Projection, Embedded Document & Arrays
+**Projection** means selecting only the necessary data rather than selecting whole of the data of a document.
 
+Note: This data transformation is happening on the MongoDB server and not on the client side, so that you don't get the unneccesay data and don't impact the bandwidth.
+
+E.g.
+
+```
+db.collection.find(query, projection)
+```
+
+**Embedded Document**  are documents with schemas of their own that are part of other documents.
+
+E.g.
+```
+{
+    "departureAirport": "BLR",
+    "arrivalAirport": "DLI",
+    "aircraft": "Airbus A320",
+    "distance": 1850,
+	  "Status": {
+			"description": "on-time",
+			"lastUpdated": "1 hour ago"}
+  }
+```
+Note: Up to 100 level of nesting. Over all document size should be below 16 MB.
+
+
+**Arrays**, MongoDB can have an array or array of embedded documents
+
+E.g.
+```
+{ 
+    item: "journal", 
+    qty: 25, 
+    tags: ["blank", "red"], 
+    dim_cm: [ 14, 21 ] 
+}
+```
+```
+{ 
+  item: "journal", 
+  instock: [ 
+    { warehouse: "A", qty: 5 }, 
+    { warehouse: "C", qty: 15 } 
+    ] 
+}
+```
+ 
 ### Task
 
 1. Insert 3 passenger records with one past air travel history
