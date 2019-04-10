@@ -62,6 +62,18 @@ For the mongo DB shell to work, please add **“C:\Program Files\MongoDB\Server\
 
 [Task](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day2.md#task)
 
-#### Day 3
+#### [Day 3](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day3.md#day-3)
+
+[Comparison Operator]
+
+[Logical Operator]
+
+[Elements]
+
+[Evaluation]
+
+[Array]
+
+
 
 MongoDB has great documentation and the same can be seen [here](https://docs.mongodb.com/manual/introduction/)
