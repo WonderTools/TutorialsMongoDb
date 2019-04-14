@@ -1,6 +1,17 @@
-﻿.movie-box {
+﻿
+.movie-container {
+    background: #ffffff;
+    box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 1050px;
+    margin: 2em;
+    border-radius: 10px;
+    display: inline-block;
+}
+.movie-box {
     display: flex;
 }
+
 .movie-card {
     background: #ffffff;
     box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.1);
@@ -38,16 +49,21 @@
 }
 
 .movie-title {
+    font-weight: bold;
     font-size: 24px;
-    margin: 0;
-    display: table-cell;
 }
 
 
 .movie-info {
     margin-top: 5em;
+    margin-left: 2em;
 }
-
+.movie-rating {
+    display: inline-flex;
+}
+.movie-rating rating-count {
+        margin-left: 20px;
+    }
 .info-section {
     display: table-cell;
     text-transform: uppercase;
