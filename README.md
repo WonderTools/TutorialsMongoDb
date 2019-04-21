@@ -64,15 +64,15 @@ For the mongo DB shell to work, please add **“C:\Program Files\MongoDB\Server\
 
 #### [Day 3](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day3.md#day-3)
 
-[Comparison Operator]
+[Comparison Operator](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day3.md#comparison-operator)
 
-[Logical Operator]
+[Logical Operator](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day3.md#logical-operator)
 
-[Elements]
+[Elements](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day3.md#elements)
 
-[Evaluation]
+[Evaluation](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day3.md#evaluation)
 
-[Array]
+[Array](https://github.com/WonderTools/TutorialsMongoDb/blob/master/Day3.md#array)
 
 
 
