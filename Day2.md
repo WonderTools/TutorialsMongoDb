@@ -59,8 +59,10 @@ E.g.
 ```
  
 ### Task
+1. Create a AirTravel database and create a passenger data collection
+2. Insert 3 passenger records with one past air travel history
+3. Update 1 passenger record with new age, new surname & history entry.
+4. Find 1 passenger with age above 25 years( or a value of your choice)
+5. Delete all passenger who's travel history has "DELHI" airport.
 
-1. Insert 3 passenger records with one past air travel history
-2. Update 1 passenger record with new age, new surname & history entry.
-3. Find 1 passenger with age above 25 years( or a value of your choice)
-4. Delete all passenger who's travel history has "DELHI" airport.
+*Note: Please retain this database as we will be using it in the next session*
