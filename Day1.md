@@ -9,7 +9,7 @@ JSON files for databases can be found in the **TutorialsMongoDB** repo
 * **Video.json**
   * Command to import the database --> **mongoimport --db Video --collection movies --file Video.json**
 * **Ships.json**
-  * Command to import the database --> **mongoimport --db Video --collection movies --file Ships.json**
+  * Command to import the database --> **mongoimport --db Ships --collection data --file Ships.json**
   
 All our databases will be stored locally on the host system
 
