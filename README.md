@@ -17,7 +17,7 @@
 
 ### RDBMS vs MongoDB
 
-RDBMS | MongoBD
+RDBMS | MongoDB
 ------------ | -------------
  Database   | Database
 Table   | Collection
