@@ -8,7 +8,6 @@
 * Full index support for High Performance.
 * Replication & Failover for High Availability.
 * Auto sharding for easy scalability.
-* Map/ Reduce for Aggregation.
 
 ### Why use MongoDB?
 * Stores documents or Objects
