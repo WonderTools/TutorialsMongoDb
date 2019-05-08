@@ -48,7 +48,7 @@ Task
 
 Name  | Description
 ------------ | -------------
- $expr   | Allows use of aggregation expressions within the query language.
+ $regex   | Selects documents where values match a specified regular expression.
 
 
 #### Array
