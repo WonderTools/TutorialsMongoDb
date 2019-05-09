@@ -60,4 +60,8 @@ $elemMatch   | Selects documents if element in the array field matches all the s
 $size | Selects documents if the array field is a specified size.
 
 
+#### Geospatial queries
+
+This we will see in a connected DB since third party mapping services such as Mapbox are not available in Compass Isolated Edition.
+
 [Query Operator documentation](https://docs.mongodb.com/manual/reference/operator/query/)
