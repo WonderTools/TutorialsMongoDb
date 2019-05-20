@@ -7,7 +7,7 @@ Note: In this module we will be using the **Person** collection, please find att
 ### Task
 
 1. Build an aggregration pipeline which gives us the Male & Female count of Britishers in person's collection.
-2. 
+2. Build an aggregration pipeline to show only the gender, fullName, birthdata & age of a person.
 
 
 [Mongo DB Aggregation documentation](https://docs.mongodb.com/manual/aggregation/)
